@@ -13,11 +13,13 @@
 ### 🛠 &nbsp;Languages,OS, & Tools I Know...
 
 <p>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML"/>
@@ -29,18 +31,17 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -73,7 +74,7 @@
 - **[Nobur](https://github.com/dzuura/Nobur-OOP-Project)** - This project is a Java-based game development with Object-Oriented Programming (OOP) principles, which organizes characters, items, and game mechanics into structured classes.
 - **[Bike Sharing (Data Analysis)](https://github.com/dzuura/Bike-Sharing_Data-Analysis)** - This project is an interactive data analysis developed with Jupyter Notebook, using data analysis principles such as data collection, cleaning, exploration, and visualization to generate reliable insights for decision-making.
 - **[Cafe App](https://github.com/dzuura/cafe-app)** - A simple cafe application created using Python, designed to assist in ordering, menu management, and total cost calculation. The app allows users to select items from the menu, calculate total purchases, and provides an easy-to-understand user interface for efficient cafe operations. 
-
+- **[Komikara App](https://github.com/dzuura/komikara-app)** - Comic reader app built with Kotlin for Android. Users can browse comics from an API, save favorites locally, and enjoy a seamless login experience. Admins can manage comics with full CRUD functionality. Simple and user-friendly!
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -84,12 +85,11 @@
    &nbsp;&#10022; Feel free to reach me at:
 
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://discord.com/invite/T4m72sbF" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" /></a>
    <a href="mailto:daffa3704@gmail.com"><img src="https://img.shields.io/badge/daffa3704@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
    <a href="www.linkedin.com/in/daffa-zulfahmi-al-ahyar"><img src="https://img.shields.io/badge/-Daffa Zulfahmi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/dzuura_"><img src="https://img.shields.io/badge/-@dzuura_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
    
-   &nbsp;&#10022; I use LinkedIn to join extraordinary projects and also increase my teammate connections .
+   &nbsp;&#10022; I use LinkedIn to join extraordinary projects and also increase my teammate connections.
   </p>
  </div>
 </div>
@@ -98,7 +98,7 @@
   <p align="left">
    &nbsp;&#10022; Developed by : Daffa Zulfahmi
    <br><br>
-   &nbsp;&#10022; Last Edited on: 8/11/2024;
+   &nbsp;&#10022; Last Edited on: 18/12/2024
   </p>
  </div>
 </div>
