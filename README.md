@@ -10,7 +10,7 @@
   </div>
 </div>
 
-### 🛠 &nbsp;Languages,OS, & Tools I Know...
+### 🛠 &nbsp;Languages, OS, & Tools I Know...
 
 <p>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -39,9 +40,9 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -98,7 +99,7 @@
   <p align="left">
    &nbsp;&#10022; Developed by : Daffa Zulfahmi
    <br><br>
-   &nbsp;&#10022; Last Edited on: 18/12/2024
+   &nbsp;&#10022; Last Edited on: 11/04/2024
   </p>
  </div>
 </div>
