@@ -1,4 +1,5 @@
-![Header](img/github-header.png)
+<h1 align="center">&#10022; Hi, I'm Daffa Zulfahmi &nbsp;&#10022;</h1>
+<!-- ![Header](img/github-header.png) -->
 <br>
 
 ### 🛠 &nbsp;Tech Stack:
@@ -50,7 +51,7 @@
 ### 🤝🏻 &nbsp;Connect with Me:
 
 <div align="center">
-  <a href="mailto:daffa3704@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) ![www.linkedin.com/in/daffa-zulfahmi-al-ahyar"/></a>
+  <a href="mailto:daffa3704@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/daffa-zulfahmi-al-ahyar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/dzuura_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div><br>
