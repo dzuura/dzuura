@@ -28,8 +28,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzuura&layout=compact&langs_count=6&theme=aura" height="148" alt="languages graph"  /><br />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dzuura&theme=aura" alt="profile-summary graph"/><br />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzuura&radius=16&theme=redical&area=true&area_color=7F3FBF&line=A277FF&title_color=61FFCA&color=61FFCA" height="300" alt="activity graph"  /><br />
 
 </div><br>
